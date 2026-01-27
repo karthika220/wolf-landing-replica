@@ -22,10 +22,10 @@ const FloatingButtons = () => {
         href="https://wa.me/919940698326"
         target="_blank"
         rel="noopener noreferrer"
-        className="floating-btn bottom-6 right-6 bg-primary text-primary-foreground"
-        aria-label="Call us"
+        className="floating-btn bottom-6 right-6 bg-accent text-accent-foreground"
+        aria-label="Chat on WhatsApp"
       >
-        <Phone className="w-7 h-7" />
+        <WhatsAppIcon />
       </a>
     </>
   );
