@@ -12,27 +12,27 @@ const faqs = [
   },
   {
     question: "Is paint protection film (PPF) worth it for new cars?",
-    answer: "Yes, PPF is highly recommended for new cars as it provides invisible protection against scratches, stone chips, and environmental damage while maintaining the factory finish.",
+    answer: "Yes. Paint Protection Film is highly recommended for new cars to prevent scratches, stone chips, swirl marks, and paint fading. Our PPF installation in Tirupur helps maintain your car’s original paint and resale value, especially for daily city driving.",
   },
   {
     question: "How long does ceramic coating last?",
-    answer: "Professional ceramic coating can last 2-5 years depending on the grade of coating applied, maintenance routine, and environmental conditions.",
+    answer: "Ceramic coating typically lasts between 1 to 3 years depending on the package, maintenance, and driving conditions. Our ceramic coating services in Tirupur offer long-lasting gloss, UV protection, and easier cleaning when maintained properly.",
   },
   {
     question: "What is the difference between ceramic coating and graphene coating?",
-    answer: "Graphene coating offers superior heat dissipation, is more flexible, and provides better water sheeting compared to traditional ceramic coatings. It also has anti-static properties that reduce dust accumulation.",
+    answer: "Ceramic coating provides excellent gloss and basic paint protection, while graphene coating offers enhanced durability, better heat resistance, and longer protection. Graphene coating is ideal for car owners in Tirupur looking for advanced paint protection.",
   },
   {
     question: "Do you offer interior-only car cleaning services?",
-    answer: "Yes, we offer standalone interior cleaning services including deep vacuuming, dashboard cleaning, upholstery shampooing, and odour removal.",
+    answer: "Yes. We provide interior-only car cleaning services including foam cleaning, stain removal, odour treatment, and deep upholstery cleaning. This service is ideal for maintaining hygiene and comfort, especially for family cars.",
   },
   {
     question: "Is PPF visible on the car after installation?",
-    answer: "High-quality PPF is virtually invisible once installed. Our premium films are optically clear and self-healing, maintaining your car's original appearance.",
+    answer: "No. High-quality PPF is virtually invisible when installed correctly. Our professional PPF installation in Tirupur ensures a clean finish without affecting your car’s original look.",
   },
   {
     question: "How much does car detailing cost in Tirupur?",
-    answer: "Car detailing costs vary based on the services selected and vehicle size. Basic car wash starts from ₹349, while comprehensive detailing packages are customized based on your needs.",
+    answer: "Car detailing costs depend on the service type, car size, and package selected. We offer car wash services starting from ₹349, ceramic coating from ₹14,999, and special PPF offers for a limited period.",
   },
 ];
 
